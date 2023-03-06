@@ -10,6 +10,10 @@ This repository shows how to focus an input without using autoFocus in a useEffe
 
 </div>
 
+### Links
+
+[Click to open site](https://focusing-input-automatically.netlify.app/)
+
 ### Important points to consider
 
 - side effects happen <strong>on the side</strong>
